@@ -1,0 +1,15 @@
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\bin\Debug\net8.0\Mikro store.exe
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\bin\Debug\net8.0\Mikro store.deps.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\bin\Debug\net8.0\Mikro store.runtimeconfig.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\bin\Debug\net8.0\Mikro store.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\bin\Debug\net8.0\Mikro store.pdb
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\Mikro store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\Mikro store.AssemblyInfoInputs.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\Mikro store.AssemblyInfo.cs
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\Mikro store.csproj.CoreCompileInputs.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\Mikro store.sourcelink.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\Mikro store.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\refint\Mikro store.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\Mikro store.pdb
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\Mikro store.genruntimeconfig.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Mikro store\Mikro store\obj\Debug\net8.0\ref\Mikro store.dll
