@@ -55,5 +55,4 @@ while (dinaPengar > 0)
 
 
 Console.WriteLine("Du har inga pengar kvar");
-Console.WriteLine("Tryck på enter");
 Console.ReadLine();
